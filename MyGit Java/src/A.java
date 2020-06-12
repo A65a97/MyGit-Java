@@ -7,5 +7,6 @@ public class A {
 		C myC = new C();
 		myB.callB();
 		myC.callC();
+		System.out.println("Ask me if you have any questions.");
 	}
 }
